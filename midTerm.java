@@ -39,3 +39,6 @@ public class midTerm {
 		
 	}
 }
+
+// Where is the loop, and the variables to keep track of the counts?
+// and please explain (int[] sum= new int[6] {2,4,6,8,10,12}
